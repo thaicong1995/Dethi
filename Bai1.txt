@@ -1,0 +1,11 @@
+﻿3 lua chon:
+
+1.Hiệu Suất và Tính Linh Hoạt:
+
+Một công nghệ có hiệu suất cao và tính linh hoạt sẽ giúp ứng dụng đáp ứng nhanh chóng với sự gia tăng hoặc giảm bớt trong lượng công việc. Sự linh hoạt này là quan trọng khi cần điều chỉnh hệ thống để đáp ứng nhu cầu người dùng thay đổi.
+2.Cộng Đồng và Tài Nguyên Phát Triển:
+
+Lựa chọn công nghệ được sử dụng rộng rãi và được hỗ trợ bởi cộng đồng phát triển lớn sẽ giúp đội ngũ phát triển dễ dàng tìm kiếm tài nguyên, giải quyết vấn đề và nắm bắt các xu hướng mới. Sự phổ biến của công nghệ cũng đồng nghĩa với việc có nhiều tài liệu và ví dụ cho việc triển khai.
+3.Chi phí Xây Dựng và Bảo Trì:
+
+Chi phí có thể là một yếu tố quyết định quan trọng. Sử dụng công nghệ mã nguồn mở hoặc các công nghệ có chi phí xây dựng và bảo trì thấp có thể giúp giảm bớt gánh nặng tài chính và tăng tính khả dụng của dự án.
